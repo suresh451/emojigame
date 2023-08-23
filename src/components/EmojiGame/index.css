@@ -1,0 +1,9 @@
+/* Write your code here. */
+.ul-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

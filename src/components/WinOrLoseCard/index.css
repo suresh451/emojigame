@@ -1,0 +1,18 @@
+/* Write your code here. */
+.win-or-lose-img {
+  width: 200px;
+}
+.win-or-lose-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+}
+.win-or-lose-main-div {
+  background-color: transparent;
+  padding: 20px;
+  margin: 30px;
+  border: 1px solid white;
+  border-radius: 10px;
+}

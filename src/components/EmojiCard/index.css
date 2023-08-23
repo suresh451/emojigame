@@ -1,0 +1,12 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+  padding: 30px;
+  background-color: transparent;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.card-img {
+  width: 100px;
+}
